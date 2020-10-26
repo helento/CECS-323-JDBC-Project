@@ -1,6 +1,6 @@
 /**
+CECS 323 JDBC Project
 Varun Krishna Pappusetti, Helen To, Daniel Tripp (Group 10)
-CECS 323 JDBC
 */
 import java.util.Scanner;
 import java.sql.*;
@@ -842,7 +842,7 @@ public class JDBC {
             i.printStackTrace();
         }
     }
-    
+        
     /**
      * Prompts user to enter a number within a range. Loops until user gets it right.
      */
