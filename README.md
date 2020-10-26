@@ -17,10 +17,10 @@ Create a simple menu to run all of the options below:
 - Remove a single book specified by the user
 
 # Requirements
-For all queries involving user input, you must use prepared statements
-You must be able to prove your results after each query
-Make sure to validate the data either through the java code or database constraints
-Make sure you handle any SQLExceptions that are thrown
-Use must use your NetBeans/Derby database for this project
-Make sure you have enough sample data to properly demonstrate your project
-The data can be fictional but it must be meaningful. I don't want to see Book One, Book Two, etc.
+- For all queries involving user input, you must use prepared statements
+- You must be able to prove your results after each query
+- Make sure to validate the data either through the java code or database constraints
+- Make sure you handle any SQLExceptions that are thrown
+- Use must use your NetBeans/Derby database for this project
+- Make sure you have enough sample data to properly demonstrate your project
+- The data can be fictional but it must be meaningful. I don't want to see Book One, Book Two, etc.
